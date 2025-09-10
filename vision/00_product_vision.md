@@ -11,6 +11,6 @@ The Brand API aims to provide a single source of truth for all brand-related dat
 
 ## Success Metrics
 - 100% of digital touchpoints consume brand data from the Brand API
-- Reduction in redundant asset creation by 90%
+- Reduction in redundant asset creation by 100%
 - Consistent brand presentation across all applications and products
 - Scalability for future SAP Cloud and AI integrations
